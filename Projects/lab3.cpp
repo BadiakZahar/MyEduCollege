@@ -1,7 +1,6 @@
 #include <iostream>
 #include <conio.h>
 #include <string>
-#include <string_view>
 using namespace std;
 int main() {
     int z, s, Sum, TaxSum, workType;
